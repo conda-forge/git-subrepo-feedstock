@@ -12,7 +12,6 @@ source:
 build:
   number: 0
   script: make install
-  skip: True  # [win]
   noarch: generic
 
 requirements:
